@@ -75,7 +75,7 @@ void loop() {
 
 
     strip.show();
-    delay(50);
+    delay(25);
     
     
     
